@@ -24,10 +24,6 @@ OR
 python3 main.py off
 ```
 
-## License
-
-MIT
-
 ## Warning
 This is just a proof of concept, you probably shouldn't have your credentials in some python file. Please do not use this in a productive environment.
 
